@@ -16,14 +16,15 @@ This project demonstrates stock portfolio management, market trends, user authen
 
 ---
 ### 1. Clone the repository
+```
+git clone <repository_url>
+cd zerodha-clone
+```
+## 🚀 Installation & Setup
 ```Backend setup
 npm install
 # Create a .env file with your MongoDB URI and any other secrets
 npm start
-
-git clone <repository_url>
-cd zerodha-clone
-
 cd backend
 npm install
 # Create a .env file with your MongoDB URI and any other secrets
@@ -45,7 +46,7 @@ Passionate about building full-stack web applications and creating user-friendly
 - 📧 Email: [soubhikmondal8880@gmail.com](mailto:soubhikmondal8880@gmail.com)  
 - 🐙 GitHub: [github.com/soubhikmondal8880](https://github.com/soubhikmondal8880)  
 - 🌐 LinkedIn: [linkedin.com/in/soubhik-mondal-8880](https://www.linkedin.com/in/soubhik-mondal-8880)  
-## 🚀 Installation & Setup
+
 
 
 
